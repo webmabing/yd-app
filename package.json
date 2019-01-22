@@ -1,0 +1,25 @@
+{
+  "name": "yd-app",
+  "version": "1.0.0",
+  "description": "yidong",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webmabing/yd-app.git"
+  },
+  "keywords": [
+    "yidong"
+  ],
+  "author": "Bill",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webmabing/yd-app/issues"
+  },
+  "homepage": "https://github.com/webmabing/yd-app#readme",
+  "dependencies": {
+    "mysql": "^2.16.0"
+  }
+}
